@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super-Gauge-View-Speedo-Meter</string>
+    <string name="speed_test">Speed Test</string>
+    <string name="super_gauge_example">Super Gauge Example</string>
+    <string name="download">Download</string>
+    <string name="mbps">Mbps</string>
+    <string name="upload">Upload</string>
+    <string name="start">START</string>
+</resources>
